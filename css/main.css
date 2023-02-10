@@ -1,0 +1,37 @@
+/*!***************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./node_modules/postcss-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[1].use[3]!./src/scss/main.scss ***!
+  \***************************************************************************************************************************************************************************************************************/
+.logo {
+  background-image: url(../bb0aa17dadcd918d7678.png); }
+
+.nav-1 {
+  color: #123457; }
+
+.text-primary1 {
+  color: #2525b1; }
+
+.d-flex {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex; }
+
+.justify-content-center {
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center; }
+
+.bg-filter {
+  -webkit-filter: blur(5px);
+          filter: blur(5px); }
+
+.abc {
+  height: 100px;
+  width: 100px; }
+
+.test14 {
+  width: 789px; }
+
+
+/*# sourceMappingURL=main.css.map*/
