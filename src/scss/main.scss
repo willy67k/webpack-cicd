@@ -1,0 +1,27 @@
+@import './helpers/variable';
+@import './component/navbar';
+
+.text-primary1 {
+  color: $primary;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.bg-filter {
+  filter: blur(5px);
+}
+
+.abc {
+  height: 100px;
+  width: 100px;
+}
+
+.test14 {
+  width: 789px;
+}
